@@ -1,8 +1,27 @@
-# React + Vite
+# Bike Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nike-store is A Responsive web application using Tailwind CSS
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+See the project here: https://nikestore-d5bec.web.app
+
+LinkedIn : https://www.linkedin.com/in/ahmed-heikal-875175236
+
+
+# Features
+- Responsive Design (mobile - tablet - desktop)
+
+# Tech Stack
+
+- React Library
+- Tailwind CSS
+
+# Home Page (Desktop)
+
+<img src="/assets/images/desctop.png">
+
+#Hero (iPad)
+
+<img src="/assets/images/ipad.png">
+
