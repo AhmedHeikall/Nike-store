@@ -19,9 +19,9 @@ LinkedIn : https://www.linkedin.com/in/ahmed-heikal-875175236
 
 # Home Page (Desktop)
 
-<img src="/assets/images/desctop.png">
+<img src="/src/assets/images/desctop.png">
 
-#Hero (iPad)
+# Hero (iPad)
 
-<img src="/assets/images/ipad.png">
+<img src="/src/assets/images/ipad.png">
 
